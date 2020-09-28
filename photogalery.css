@@ -1,0 +1,15 @@
+figure {
+    background-color: coral;
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 0 3px orange;
+}
+img {
+    border: 1px solid black;
+}
+figcaption {
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}

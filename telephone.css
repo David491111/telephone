@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: cornsilk;
+}
+ul {
+background: coral;
+list-style: none;
+    margin: 0; padding: 0; 
+    overflow: hidden;
+    }
+    li {
+    float: left;
+    width: 16.66%;
+    }
+    a {
+    display: block;
+    padding: 7px 15px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    } 
+    h1 {
+        width: 10px;
+        margin: 0 auto;
+    }
+    .top {
+        width: 200px;
+        margin: 0 auto;
+        text-transform: uppercase;
+    }
