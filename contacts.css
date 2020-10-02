@@ -1,0 +1,19 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+    padding: 10px;
+}
+.hotline {
+    margin: 50px auto;
+    background-color: chocolate;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
