@@ -30,3 +30,7 @@ list-style: none;
         margin: 0 auto;
         text-transform: uppercase;
     }
+    footer {
+        position: absolute;
+        bottom: 50px;
+    }
