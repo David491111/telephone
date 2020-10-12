@@ -19,3 +19,8 @@ div {
     margin-right: 60px;
     margin-bottom: 10px;
 }
+footer {
+    clear: both;
+    position: static;
+    bottom: 0;
+}
